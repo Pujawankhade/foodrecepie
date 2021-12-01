@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodrecepie/static/css/main.6d307718.chunk.css",
+    "main.js": "/foodrecepie/static/js/main.887a9837.chunk.js",
+    "main.js.map": "/foodrecepie/static/js/main.887a9837.chunk.js.map",
+    "runtime-main.js": "/foodrecepie/static/js/runtime-main.e4a54e41.js",
+    "runtime-main.js.map": "/foodrecepie/static/js/runtime-main.e4a54e41.js.map",
+    "static/js/2.3d190671.chunk.js": "/foodrecepie/static/js/2.3d190671.chunk.js",
+    "static/js/2.3d190671.chunk.js.map": "/foodrecepie/static/js/2.3d190671.chunk.js.map",
+    "static/js/3.c3952261.chunk.js": "/foodrecepie/static/js/3.c3952261.chunk.js",
+    "static/js/3.c3952261.chunk.js.map": "/foodrecepie/static/js/3.c3952261.chunk.js.map",
+    "index.html": "/foodrecepie/index.html",
+    "static/css/main.6d307718.chunk.css.map": "/foodrecepie/static/css/main.6d307718.chunk.css.map",
+    "static/js/2.3d190671.chunk.js.LICENSE.txt": "/foodrecepie/static/js/2.3d190671.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4a54e41.js",
+    "static/js/2.3d190671.chunk.js",
+    "static/css/main.6d307718.chunk.css",
+    "static/js/main.887a9837.chunk.js"
+  ]
+}
