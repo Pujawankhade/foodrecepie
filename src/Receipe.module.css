@@ -1,0 +1,16 @@
+.recepie{
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-shadow: 0px 5px 5px rgba(71,71,71);
+    background-color: white;
+    align-items:center;
+    min-width: 40%;
+}
+.title{
+    font-size: 20px;
+    font-weight: 600;
+}
